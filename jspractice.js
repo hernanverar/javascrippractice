@@ -16,3 +16,9 @@ function remainder(number1, number2) {
 
 
 console.log(remainder(1,2));
+console.log(twoTimes(1,2));
+
+str = "42";
+
+console.log(42.43.toString());
+
